@@ -16,7 +16,7 @@ while (dev.isInFrontOfComputer()) {
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julio-velezmoro-frontend-developer)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lakorthus@gmail.com)
 [![Twitter](https://img.shields.io/twitter/follow/lakorthus?label=Twitter&style=social)](https://twitter.com/lakorthus/)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lakorthus.lakorthus)](https://github.com/lakorthus/)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=JeanFerreira91.JeanFerreira91)](https://github.com/JeanFerreira91/)
 
 <!-- gif Image -->
 <img src="https://giphy.com/gifs/765ccrAiB0g9z6EApL" alt="side Image" align="right" width="260" height="auto" />
