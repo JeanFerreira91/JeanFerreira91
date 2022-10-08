@@ -1,5 +1,5 @@
 ### Hi there, I'm Jean 👋
-### I'm an Enthusiastic, Back Developer!
+### I'm an Enthusiastic, Backend Developer!
 ```javascript
 Developer dev = new Developer("Jean");
 
