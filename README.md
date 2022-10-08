@@ -52,5 +52,5 @@ while (dev.isInFrontOfComputer()) {
 
 #### 🏆 Github Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JeanFerreira91&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakorthus&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanFerreira91&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanFerreira91&show_icons=true&theme=dracula&hide_border=true)
